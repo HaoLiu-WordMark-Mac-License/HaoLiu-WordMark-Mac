@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/78/d8/6378d8c5-e4ed-cef7-12ff-d64b7aed3aad/AppIcon-0-0-85-220-0-4-0-2x.png/1200x630bb.png" width="200" alt="HaoLiu WordMark macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/HaoLiu%20WordMark">
+ <a href="https://gnomik-gomik-apps.github.io/.github/HaoLiu%20WordMark">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open HaoLiu WordMark macOS page">
  </a><br><br>
  <div align="center">
